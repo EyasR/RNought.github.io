@@ -129,3 +129,5 @@ Email: erashid@uw.edu
   - Foodie
   - Coffee addict
 ```
+
+[References](https://docs.google.com/document/d/1bEbulgeJAB6q76m6RpM5PUAB89yf9TFEuJ2qB0s5x6s/edit?usp=sharing)
