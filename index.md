@@ -1,3 +1,19 @@
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/EyasR/RNought.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,9 +31,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<p><iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
+<div class="video-container">
+    <iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
     mozallowfullscreen="true" src="https://connect.unity3dusercontent.com/webgl/677442ed-84d8-4ef5-baee-153cd3974c1d?screenshot=false&embedType=embed"  width="810"
-    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>></p>
+    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>>
+</div>
+
 
 
     
