@@ -1,26 +1,7 @@
-.video-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
-}
+### R(Nought): Covid-19
 
-.video-container iframe {
-    position: absolute;
-    top:0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/EyasR/RNought.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Game Description
+R Nought, in epidemiology, "is the number of cases, on average, an infected person will cause during their infectious period. “ (source 1) What this game does, is pits the protagonist against a growing number of Covid-infected tourists in a hot vacation spot on the coast. The protagonist cannot afford to purchase an early plane ticket home and must do everything in their power to protect themselves as they earn cash and get out of town before they contract the virus. Players will avoid burglars, purchase, and find protective gear, and do whatever it takes to buy that plane ticket. R Nought incorporates mechanics that encourage players to practice social distancing and allows for various playstyles to either speed run the game and compete for the fastest time or hang out an explore the chaotic town
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,15 +12,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<div class="video-container">
-    <iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
-    mozallowfullscreen="true" src="https://connect.unity3dusercontent.com/webgl/677442ed-84d8-4ef5-baee-153cd3974c1d?screenshot=false&embedType=embed"  width="810"
-    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>>
-</div>
-
-
-
-    
 - Bulleted
 - List
 
