@@ -84,7 +84,9 @@ As the game progresses and players are more equipped to protect themselves, more
 ## Presentation
 
 - [Presentation Slide Deck](https://docs.google.com/presentation/d/1x6eSgwiLEu_TO3M8vymtaDxkX31VyV9_PfLwrKUl5y0/edit?usp=sharing)
+
 ---
+
 # Credits
 
 ---
