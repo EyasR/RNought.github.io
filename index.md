@@ -4,7 +4,8 @@
 
 - [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 
-
+---
+---
 # Screen Shots
 
 ![Image](ScreenShot1.png)
@@ -14,12 +15,12 @@
 ![Image](ScreenShot4.png)
 
 
-
+---
 # Game Description
 
 R Nought, in epidemiology, "is the number of cases, on average, an infected person will cause during their infectious period. “ (source 1) What this game does, is pits the protagonist against a growing number of Covid-infected tourists in a hot vacation spot on the coast. The protagonist cannot afford to purchase an early plane ticket home and must do everything in their power to protect themselves as they earn cash and get out of town before they contract the virus. Players will avoid burglars, purchase, and find protective gear, and do whatever it takes to buy that plane ticket. R Nought incorporates mechanics that encourage players to practice social distancing and allows for various playstyles to either speed run the game and compete for the fastest time or hang out an explore the chaotic town.
 
-
+---
 # Overview
 ```
 Title: R Nought
@@ -30,6 +31,7 @@ Target Audience: PC and Mobile players of ages 16+ that enjoy Pokemon-esq games
 Plays Like: Pokemon 
 Goal: Avoid contracting a disease and get out of town
 ```
+---
 # Major Mechanics:
 ```
 -    Square Tiled map
@@ -40,7 +42,7 @@ Goal: Avoid contracting a disease and get out of town
 -    NPCs infect each other with the virus naturally
 -    NPCs infect players within “6 feet” of them
 ```
-
+---
 # Key Experiences
 ```
 -    Barely avoiding contracting the disease
@@ -48,7 +50,7 @@ Goal: Avoid contracting a disease and get out of town
 -    Finding a new obtainable upgrade
 -    Managing economy
 ```
-
+---
 # World
 
 The world consists of a mid-size beach town that is a strong attraction for tourists. The player finds themselves waking up to a series of text messages, one from their significant other warning them of a new virus, and another from the local news about the virus finding its first few victims in their vacation town. The goal of the player is immediately to find protective gear to assist in avoiding contraction of the virus, and to do so they are going to need the standard protective supplies: A facemask, some gloves, and hand sanitizer. Spatial awareness is a key skill a player may find useful when adventuring and may find the game progressively more difficult with the number of victims increasing exponentially.
@@ -58,22 +60,29 @@ Players are not only encouraged to practice social distancing in-game, but also 
 A challenge that players may face is that as the number of people get infected, maneuvering around town becomes much more difficult, and if they happen to get trapped between two infected people and contract the virus, they are immediately sent to the hospital, which carries a hefty bill of $1500. There are many areas around town that the player must get to in order to complete objectives, and to do so there may be a multitude of infected pedestrians wandering in the player’s way.
 As the game progresses and players are more equipped to protect themselves, more opportunities for exploration will be introduced, with many side explorations being rewarding with either cash or other in-game consumables. More consumables will be added in future versions of the game in addition to various alternative sources of income.
 
-
+---
+---
 ## Selling Points
 ```
 -    Convenient gameplay experience that has unique elements and is fun and sometimes strategic
 -    Allows for exploration
 ```
+---
+---
 ## Development Log
 - [Trello Board](https://trello.com/b/D39SdpL5/covid-19-social-distancing-game)
 
+---
+---
 ## Playtesting Reports
 - [Beta 1.0](https://docs.google.com/document/d/1MLVAQEZnybc-_2055p1OwDNgMWn5DrVFeNfZq1FNoV8/edit?usp=sharing)
 - [Beta 1.1](https://docs.google.com/document/d/1e7CeUiZb6YZPyEawLouyJLGluL5D8E4RzRCWDMvWh_A/edit?usp=sharing)
 - [Alpha 1.0](https://docs.google.com/document/d/17yPAsBPo8vqxPDqV0zuc9DZIGrSI1QuGpW2M6wKo2wQ/edit?usp=sharing)
-
-
+---
+---
 # Credits
+---
+---
 ## Ryan Larson
 Email: rlarso@uw.edu
 
@@ -95,7 +104,7 @@ Email: rlarso@uw.edu
   - Futurist
   - Optimization Fanatic
 ```
-
+---
 ## Eyas Rashid
 Email: erashid@uw.edu
 
