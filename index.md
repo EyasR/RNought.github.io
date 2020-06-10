@@ -64,6 +64,7 @@ As the game progresses and players are more equipped to protect themselves, more
 -    Allows for exploration
 ```
 ## Development Log
+[Trello Board](https://trello.com/b/D39SdpL5/covid-19-social-distancing-game)
 
 ## Playtesting Reports
 - [Beta 1.0](https://docs.google.com/document/d/1MLVAQEZnybc-_2055p1OwDNgMWn5DrVFeNfZq1FNoV8/edit?usp=sharing)
