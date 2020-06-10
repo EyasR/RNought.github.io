@@ -5,11 +5,7 @@
 [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 
 ## Screen Shots
-![Image](src)
-![Image](src)
-![Image](src)
-![Image](src)
-![Image](src)
+![Image](MiniMap2_V1.png)
 
 ## Game Description
 
