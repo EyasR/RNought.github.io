@@ -86,6 +86,16 @@ As the game progresses and players are more equipped to protect themselves, more
 
 - [Presentation Slide Deck](https://docs.google.com/presentation/d/1x6eSgwiLEu_TO3M8vymtaDxkX31VyV9_PfLwrKUl5y0/edit?usp=sharing)
 
+## Team Reflect
+
+Our team did a fantastic job communicating and collaborating on map design and integration. Evidence of this epic feat of collaboration is the large and complex map that was created as a result and the integration of all the different digital prototypes that we implemented in our game. If we had another 2-weeks to work on the game we would:
+
+```
+-	Do a complete game wipe of all the NPCs and rebuild the patrol routes, wandering/patrolling scripts.
+-	Alter the art assets of players/NPCs to look crisper and have variation of character models.
+-	Incorporate more of the ideas we have for mechanics and story line from the conceptual prototype. 
+```
+
 ---
 
 # Credits
