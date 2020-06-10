@@ -53,32 +53,32 @@ Goal: Avoid contracting a disease and get out of town/
 
 ## Credits
 ```
- Ryan Larson
+ ### Ryan Larson
 ```
 Email: rlarso@uw.edu
 
-Primary Role:
-- Map Designer
-- NPC logic implementation
-- Story Development
-- Pixel Art Asset Desiger
-- Component Testing
-- NPC Behavior Scripting
-- Player Behavior Scripting
+- ### Primary Role:
+  - Map Designer 
+  - NPC logic implementation
+  - Story Development
+  - Pixel Art Asset Desiger
+  - Component Testing
+  - NPC Behavior Scripting
+  - Player Behavior Scripting
 
 
-Bio: 
-- University of Washington Computer Science and Software Engineering Senior
-- Map Design Enthuesiest
-- Futurist
-- Optimization Fanatic
+- ### Bio: 
+  - University of Washington Computer Science and Software Engineering Senior
+  - Map Design Enthuesiest
+  - Futurist
+  - Optimization Fanatic
 
 ```
- Eyas Rashid
+### Eyas Rashid
 ```
 Email: erashid@uw.edu
 
-Primary Role:
+### Primary Role:
 - Audio Design
 - Project Management
 - User Interface Design
@@ -87,7 +87,7 @@ Primary Role:
 - Conceptual Design
 - Dialogue Implementation
 
-Bio: 
+### Bio: 
 - University of Washington Computer Science and Software Engineering Senior
 - Anti-social Gamer
 - Plant Enthusiast
