@@ -4,9 +4,12 @@
 
 [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 
-    <iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
-    mozallowfullscreen="true" src="https://connect.unity3dusercontent.com/webgl/677442ed-84d8-4ef5-baee-153cd3974c1d?screenshot=false&embedType=embed"  width="810"
-    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
+## Screen Shots
+![Image](src)
+![Image](src)
+![Image](src)
+![Image](src)
+![Image](src)
 
 ## Game Description
 
@@ -48,23 +51,48 @@ Goal: Avoid contracting a disease and get out of town/
 -    Allows for exploration
 ```
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Credits
 ```
+ Ryan Larson
+```
+Email: rlarso@uw.edu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Primary Role:
+- Map Designer
+- NPC logic implementation
+- Story Development
+- Pixel Art Asset Desiger
+- Component Testing
+- NPC Behavior Scripting
+- Player Behavior Scripting
+
+
+Bio: 
+- University of Washington Computer Science and Software Engineering Senior
+- Map Design Enthuesiest
+- Futurist
+- Optimization Fanatic
+
+```
+ Eyas Rashid
+```
+Email: erashid@uw.edu
+
+Primary Role:
+- Audio Design
+- Project Management
+- User Interface Design
+- Integration Testing
+- Animation Specialist
+- Conceptual Design
+- Dialogue Implementation
+
+Bio: 
+- University of Washington Computer Science and Software Engineering Senior
+- Anti-social Gamer
+- Plant Enthusiast
+- Mountaineer
+- Foodie
+- Coffee addict
+
 
