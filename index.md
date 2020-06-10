@@ -4,10 +4,14 @@
 
 [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 
+    <iframe id='webgl_iframe' frameborder="0" allow="autoplay; fullscreen; vr" allowfullscreen="" allowvr=""
+    mozallowfullscreen="true" src="https://connect.unity3dusercontent.com/webgl/677442ed-84d8-4ef5-baee-153cd3974c1d?screenshot=false&embedType=embed"  width="810"
+    height="640" onmousewheel="" webkitallowfullscreen="true"></iframe>
+
 ## Game Description
-```
+
 R Nought, in epidemiology, "is the number of cases, on average, an infected person will cause during their infectious period. “ (source 1) What this game does, is pits the protagonist against a growing number of Covid-infected tourists in a hot vacation spot on the coast. The protagonist cannot afford to purchase an early plane ticket home and must do everything in their power to protect themselves as they earn cash and get out of town before they contract the virus. Players will avoid burglars, purchase, and find protective gear, and do whatever it takes to buy that plane ticket. R Nought incorporates mechanics that encourage players to practice social distancing and allows for various playstyles to either speed run the game and compete for the fastest time or hang out an explore the chaotic town.
-```
+
 
 ## Overview
 ```
