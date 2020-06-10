@@ -1,9 +1,37 @@
 ### R(Nought): Covid-19
 
-### Game Description
-R Nought, in epidemiology, "is the number of cases, on average, an infected person will cause during their infectious period. “ (source 1) What this game does, is pits the protagonist against a growing number of Covid-infected tourists in a hot vacation spot on the coast. The protagonist cannot afford to purchase an early plane ticket home and must do everything in their power to protect themselves as they earn cash and get out of town before they contract the virus. Players will avoid burglars, purchase, and find protective gear, and do whatever it takes to buy that plane ticket. R Nought incorporates mechanics that encourage players to practice social distancing and allows for various playstyles to either speed run the game and compete for the fastest time or hang out an explore the chaotic town
+## Game Description
+R Nought, in epidemiology, "is the number of cases, on average, an infected person will cause during their infectious period. “ (source 1) What this game does, is pits the protagonist against a growing number of Covid-infected tourists in a hot vacation spot on the coast. The protagonist cannot afford to purchase an early plane ticket home and must do everything in their power to protect themselves as they earn cash and get out of town before they contract the virus. Players will avoid burglars, purchase, and find protective gear, and do whatever it takes to buy that plane ticket. R Nought incorporates mechanics that encourage players to practice social distancing and allows for various playstyles to either speed run the game and compete for the fastest time or hang out an explore the chaotic town.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Overview
+Title: R Nought
+Tagline: “Hey! That is not 6 feet, get away!”
+Genres: RPG, Single Player Game, Survival, Simulation Game
+Platforms: PC (Mobile later)
+Target Audience: PC and Mobile players of ages 16+ that enjoy Pokemon-esq games 
+Plays Like: Pokemon 
+Goal: Avoid contracting a disease and get out of town/
+
+##Major Mechanics:
+-    Square Tiled map
+-    8-direction character movement
+-    Obtaining wealth to purchase items
+-    Purchasing from vendors
+-    Viral Load Meter that fills when contracting virus
+-    NPCs infect each other with the virus naturally
+-    NPCs infect players within “6 feet” of them
+
+
+##Key Experiences
+-    Barely avoiding contracting the disease
+-    Escaping a robber
+-    Finding a new obtainable upgrade
+-    Managing economy
+
+##Selling Points
+-    Convenient gameplay experience that has unique elements and is fun and sometimes strategic
+-    Allows for exploration
+
 
 ```markdown
 Syntax highlighted code block
@@ -25,10 +53,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EyasR/RNought.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
