@@ -1,9 +1,7 @@
 # R(Nought): Covid-19
 
 # Play Now!!!
-### (>^_^)> (>^_^)>           <(^_^<)<(^_^<)
 - [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
-### (>^_^)> (>^_^)>           <(^_^<)<(^_^<)
 ---
 
 # Screen Shots
