@@ -5,7 +5,7 @@
 - [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 
 ---
----
+
 # Screen Shots
 
 ![Image](ScreenShot1.png)
@@ -61,28 +61,30 @@ A challenge that players may face is that as the number of people get infected, 
 As the game progresses and players are more equipped to protect themselves, more opportunities for exploration will be introduced, with many side explorations being rewarding with either cash or other in-game consumables. More consumables will be added in future versions of the game in addition to various alternative sources of income.
 
 ---
----
+
 ## Selling Points
 ```
 -    Convenient gameplay experience that has unique elements and is fun and sometimes strategic
 -    Allows for exploration
 ```
 ---
----
+
 ## Development Log
 - [Trello Board](https://trello.com/b/D39SdpL5/covid-19-social-distancing-game)
 
 ---
----
+
 ## Playtesting Reports
 - [Beta 1.0](https://docs.google.com/document/d/1MLVAQEZnybc-_2055p1OwDNgMWn5DrVFeNfZq1FNoV8/edit?usp=sharing)
 - [Beta 1.1](https://docs.google.com/document/d/1e7CeUiZb6YZPyEawLouyJLGluL5D8E4RzRCWDMvWh_A/edit?usp=sharing)
 - [Alpha 1.0](https://docs.google.com/document/d/17yPAsBPo8vqxPDqV0zuc9DZIGrSI1QuGpW2M6wKo2wQ/edit?usp=sharing)
+
 ---
----
+
 # Credits
+
 ---
----
+
 ## Ryan Larson
 Email: rlarso@uw.edu
 
