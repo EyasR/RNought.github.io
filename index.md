@@ -78,21 +78,21 @@ Email: rlarso@uw.edu
 ```
 Email: erashid@uw.edu
 
-### Primary Role:
-- Audio Design
-- Project Management
-- User Interface Design
-- Integration Testing
-- Animation Specialist
-- Conceptual Design
-- Dialogue Implementation
+- ### Primary Role:
+  - Audio Design
+  - Project Management
+  - User Interface Design
+  - Integration Testing
+  - Animation Specialist
+  - Conceptual Design
+  - Dialogue Implementation
 
-### Bio: 
-- University of Washington Computer Science and Software Engineering Senior
-- Anti-social Gamer
-- Plant Enthusiast
-- Mountaineer
-- Foodie
-- Coffee addict
+- ### Bio: 
+  - University of Washington Computer Science and Software Engineering Senior
+  - Anti-social Gamer
+  - Plant Enthusiast
+  - Mountaineer
+  - Foodie
+  - Coffee addict
 
 
