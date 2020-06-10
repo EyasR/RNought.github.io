@@ -75,9 +75,10 @@ As the game progresses and players are more equipped to protect themselves, more
 ---
 
 ## Playtesting Reports
-- [Beta 1.0](https://docs.google.com/document/d/1MLVAQEZnybc-_2055p1OwDNgMWn5DrVFeNfZq1FNoV8/edit?usp=sharing)
-- [Beta 1.1](https://docs.google.com/document/d/1e7CeUiZb6YZPyEawLouyJLGluL5D8E4RzRCWDMvWh_A/edit?usp=sharing)
+- [Pre-Alpha 1.0](https://docs.google.com/document/d/1MLVAQEZnybc-_2055p1OwDNgMWn5DrVFeNfZq1FNoV8/edit?usp=sharing)
 - [Alpha 1.0](https://docs.google.com/document/d/17yPAsBPo8vqxPDqV0zuc9DZIGrSI1QuGpW2M6wKo2wQ/edit?usp=sharing)
+- [Beta 1.1](https://docs.google.com/document/d/1e7CeUiZb6YZPyEawLouyJLGluL5D8E4RzRCWDMvWh_A/edit?usp=sharing)
+
 
 ---
 
