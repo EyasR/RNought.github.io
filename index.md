@@ -1,14 +1,14 @@
 # R(Nought): Covid-19
+---
+
+- [Game Trailer](https://www.youtube.com/watch?v=aZtnbgptXw8)
+---
 
 # Play Now!!!
 
 - [Final Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-5)
 - [Beta Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-social-distancing)
 - [Alpha Project Demo Release](https://connect.unity.com/mg/other/r-nought-covid-19-1)
-
----
-
-# [Game Trailer](https://www.youtube.com/watch?v=aZtnbgptXw8)
 
 ---
 
