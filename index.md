@@ -1,7 +1,7 @@
 # R(Nought): Covid-19
 ---
 
-- [Game Trailer](https://www.youtube.com/watch?v=aZtnbgptXw8)
+- [Game Trailer](https://www.youtube.com/watch?v=H49TkkzfY4U)
 
 ---
 
