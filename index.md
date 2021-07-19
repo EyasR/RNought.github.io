@@ -131,7 +131,7 @@ Email: rlarso@uw.edu
 ```
 ---
 ## Eyas Rashid
-Email: erashid@uw.edu
+Email: me@eyasrashid.com
 
 ### Primary Role:
 ```
